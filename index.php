@@ -29,7 +29,7 @@ body {
 <script src="/Javascript/main.js"></script>
 <script>
   discordInvite.init({
-  inviteCode: 'u8s6d3t',
+  inviteCode: 'p3snUuE',
   title: 'Photeks Glitches',
   miniMode: false,
   joinText : 'Join',
