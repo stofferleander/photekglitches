@@ -10,7 +10,7 @@
     <br>
     <br>
     <br>
-    <li><a  href="index.html">Home</a></li>
+    <li><a  href="index.php">Home</a></li>
     <li><a href="#news">News</a></li>
     <li><a class="active" href="contactform.php">Contact</a></li>
     <li><a href="#about">About</a></li>
